@@ -4,7 +4,9 @@ A tool for monitoring directory activities and detecting shells and malware
 # Features
 
 **Monitoring activities in directories and subdirectories**
+
 **Identify shells, backdoors, and malware using broad patterns**
+
 **Quarantine and remove shells and malware**
 
 # help
