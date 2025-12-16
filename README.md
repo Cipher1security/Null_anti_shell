@@ -1,11 +1,18 @@
 # Null_anti_shell
 A tool for monitoring directory activities and detecting shells and malware
 
+# Features
+
+**Monitoring activities in directories and subdirectories**
+**Identify shells, backdoors, and malware using broad patterns**
+**Quarantine and remove shells and malware**
+
 # help
 
 Installation and setup:
 ```
 git clone https://github.com/Cipher1security/Null_anti_shell.git
+
 cd Null_anti_shell
 ```
 
