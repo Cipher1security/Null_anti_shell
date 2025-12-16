@@ -1,7 +1,6 @@
 # Null_anti_shell
 A tool for monitoring directory activities and detecting shells and malware
 
-
 # Features
 
 **Monitoring activities in directories and subdirectories**
@@ -11,7 +10,6 @@ A tool for monitoring directory activities and detecting shells and malware
 **Identify shells, backdoors, and malware using broad patterns**
 
 **Quarantine and remove shells and malware**
-
 
 # help
 
