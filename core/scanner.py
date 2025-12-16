@@ -10,8 +10,8 @@ QUARANTINE_DIR = None
 def init_quarantine_dir(settings):
     global QUARANTINE_DIR
     QUARANTINE_DIR = settings.get("quarantine_dir", "quarantine")
-    if not os.path.exists(QUARANTINE_DIR):
-        os.makedirs(QUARANTINE_DIR, exist_ok=True)
+    secure_quarantine_dir(QUARANTINE_DIR)
+
 
 
 DANGEROUS_FUNCTIONS = [
