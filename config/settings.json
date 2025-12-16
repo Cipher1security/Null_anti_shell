@@ -1,0 +1,15 @@
+{
+  "home_dirs": ["/home"],
+  "log_dir": "log/",
+  "log_file_name": "events.log",
+  "max_log_size_mb": 5,
+  "max_log_files": 10,
+  "monitor_events": ["created", "deleted", "modified", "permissions"],
+  "ignore_paths": [],
+  "monitor_recursive": true,
+  "quarantine_dir": "quarantine",
+  "event_cooldown": 1.2,
+  "num_workers": 4,
+  "task_queue_size": 5000,
+  "scan_cache_timeout": 10
+}
